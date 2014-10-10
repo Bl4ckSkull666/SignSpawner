@@ -1,0 +1,231 @@
+spawnwait:
+  min: 5
+  max: 30
+entity:
+  monster:
+  - Blaze
+  - Cave_Spider
+  - Creeper
+  - Enderman
+  - Pig_zombie
+  - Ghast
+  - Magma_Cube
+  - Pig_Zombie
+  - Silverfish
+  - Skeleton
+  - Slime
+  - Spider
+  - Witch
+  - Zombie
+  animal:
+  - Bat
+  - Chicken
+  - Cow
+  - Horse
+  - Iron_Golem
+  - Mushroom_Cow
+  - Ocelot
+  - Pig
+  - Sheep
+  - Snowman
+  - Squid
+  - Wolf
+  boss:
+  - ender_dragon
+  - wither
+  - giant
+  Blaze:
+  - Blaze
+  CaveSpider:
+  - Cave_Spider
+  Creeper:
+  - Creeper
+  Enderman:
+  - Enderman
+  PigZombie:
+  - Pig_zombie
+  Ghast:
+  - Ghast
+  MagmaCube:
+  - Magma_Cube
+  Silverfish:
+  - Silverfish
+  Skeleton:
+  - Skeleton
+  Slime:
+  - Slime
+  Spider:
+  - Spider
+  Witch:
+  - Witch
+  Zombie:
+  - Zombie
+  Bat:
+  - Bat
+  Chicken:
+  - Chicken
+  Cow:
+  - Cow
+  Horse:
+  - Horse
+  IronGolem:
+  - Iron_Golem
+  MushroomCow:
+  - Mushroom_Cow
+  Ocelot:
+  - Ocelot
+  Pig:
+  - Pig
+  Sheep:
+  - Sheep
+  Snowman:
+  - Snowman
+  Squid:
+  - Squid
+  Wolf:
+  - Wolf
+  EnderDragon:
+  - ender_dragon
+  Wither:
+  - wither
+  Giant:
+  - giant
+equipment:
+  zombie:
+    name: Zomby
+    hand:
+      item:
+      - diamond_sword
+      - gold_sword
+      - iron_sword
+      - stone_sword
+      - wood_sword
+      chance: 100
+      drop: 50
+    helmet:
+      item:
+      - diamond_helmet
+      - gold_helmet
+      - iron_helmet
+      - chainmail_helmet
+      - leather_helmet
+      chance: 75
+      drop: 25
+    armor:
+      item:
+      - diamond_chestplate
+      - gold_chestplate
+      - iron_chestplate
+      - chainmail_chestplate
+      - leather_chestplate
+      chance: 25
+      drop: 5
+    legging:
+      item:
+      - diamond_leggings
+      - gold_leggings
+      - iron_leggings
+      - chainmail_leggings
+      - leather_leggings
+      chance: 35
+      drop: 15
+    boot:
+      item:
+      - diamond_boots
+      - gold_boots
+      - iron_boots
+      - chainmail_boots
+      - leather_boots
+      chance: 50
+      drop: 10
+  pig_zombie:
+    name: PiggyZomby
+    hand:
+      item:
+      - diamond_sword
+      - gold_sword
+      - iron_sword
+      - stone_sword
+      - wood_sword
+      chance: 100
+      drop: 50
+    helmet:
+      item:
+      - diamond_helmet
+      - gold_helmet
+      - iron_helmet
+      - chainmail_helmet
+      - leather_helmet
+      chance: 75
+      drop: 25
+    armor:
+      item:
+      - diamond_chestplate
+      - gold_chestplate
+      - iron_chestplate
+      - chainmail_chestplate
+      - leather_chestplate
+      chance: 25
+      drop: 5
+    legging:
+      item:
+      - diamond_leggings
+      - gold_leggings
+      - iron_leggings
+      - chainmail_leggings
+      - leather_leggings
+      chance: 35
+      drop: 15
+    boot:
+      item:
+      - diamond_boots
+      - gold_boots
+      - iron_boots
+      - chainmail_boots
+      - leather_boots
+      chance: 50
+      drop: 10
+  skeleton:
+    name: Skeletti
+    hand:
+      item:
+      - bow
+      chance: 100
+      drop: 50
+    helmet:
+      item:
+      - diamond_helmet
+      - gold_helmet
+      - iron_helmet
+      - chainmail_helmet
+      - leather_helmet
+      chance: 75
+      drop: 25
+    armor:
+      item:
+      - diamond_chestplate
+      - gold_chestplate
+      - iron_chestplate
+      - chainmail_chestplate
+      - leather_chestplate
+      chance: 25
+      drop: 5
+    legging:
+      item:
+      - diamond_leggings
+      - gold_leggings
+      - iron_leggings
+      - chainmail_leggings
+      - leather_leggings
+      chance: 35
+      drop: 15
+    boot:
+      item:
+      - diamond_boots
+      - gold_boots
+      - iron_boots
+      - chainmail_boots
+      - leather_boots
+      chance: 50
+      drop: 10
+    
